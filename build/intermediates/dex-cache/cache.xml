@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_b8fa4fef85b6199a7b6beb80d415bfa26fff726c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_6c2e780242d3bf12176547c39d21bd9e2a9d5135/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_a9857aa24fadc77686ebcc5a9fca025326301d29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_539cb0253fe7dcc5ec020d3be199f12c48a0140d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_81f8c734cc5e8aa09a7523fd2f5467fced52eaf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_373541f72c1886f5759fd43bbdeb6d1c9b480364/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a494f983b5f666ec5a8506c3152978afb1541003/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c9d1259c0f8b05c1123301c04108d3729a0102a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_c108e9e2929a3216cf04ed8b09e9cc94248c96e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_d9adacd4c500543343cde981a89e2ffad62642f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d229332401697e297ee1e76b0acfce13242dc7ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_13249d8f35becd326b520af01b5f94e5aa158b29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_b6264b413cef1c1a1a6bd23f9bf733472e617f18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_bf723afcead9e6ac208cf93aeefc840c5316d9f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_9bccff85cf3f4c730721d78dd484e7921da2c3bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f1f074944f2056f1c0affd9a95dc575dfe5ea311">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4562c4aa64881ab58a35b74bd85136f0fd9d1054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d09b53fb67f1c94a3a6b7a831d0f5217e959142f">
+        <dex dex="/Users/houqixuan/Desktop/Nov25/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c7dcbd6dcb8cfd60b21c7023f6ecd537a177e2a/classes.dex" />
+    </item>
+
+</items>
